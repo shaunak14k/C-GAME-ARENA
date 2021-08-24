@@ -2,6 +2,11 @@
 
 C - ARCADE GAME ARENA
 
+1) Monty Hall Probem
+2) Word Search Game
+3) 21 number magic
+4) Quiz
+
 ![C__Users_shaun_Desktop_C-Programs_C-ARCADE_game_arena exe 24-08-2021 16_57_13](https://user-images.githubusercontent.com/30958999/130609199-42a949ea-2b7c-47f8-a0ec-9d5793819842.png)
 ![C__Users_shaun_Desktop_C-Programs_C-ARCADE_game_arena exe 24-08-2021 16_57_19](https://user-images.githubusercontent.com/30958999/130609208-fbb685e2-260e-4865-8c86-10609c0c530a.png)
 ![C__Users_shaun_Desktop_C-Programs_C-ARCADE_game_arena exe 24-08-2021 16_57_42](https://user-images.githubusercontent.com/30958999/130609228-8549454b-7d0e-4dbf-8227-0277cfd5d99e.png)
